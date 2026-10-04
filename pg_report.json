@@ -1,0 +1,1489 @@
+﻿{
+    "shortlist":  [
+                      {
+                          "ticker":  "JNJ",
+                          "passed_all":  true,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  19313000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.587818,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.350301,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.060481,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  true,
+                                                       "value":  0.072078,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  31.9641,
+                                                       "threshold":  32.9986,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  6,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "PG",
+                          "passed_all":  true,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  15147000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.647658,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.302489,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.032604,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  true,
+                                                       "value":  -0.048041,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  22.1267,
+                                                       "threshold":  23.4517,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  6,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "AAPL",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  98767000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  1.33803,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  1.714224,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.064255,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  0.442726,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  36.7732,
+                                                       "threshold":  52.456,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "GOOGL",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  73266000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.142779,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.357048,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.150901,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  null,
+                                                       "threshold":  0.2,
+                                                       "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  17.0008,
+                                                       "threshold":  50.2803,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "AMZN",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  7695000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.372172,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.222858,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.123778,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  null,
+                                                       "threshold":  0.2,
+                                                       "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  20.6887,
+                                                       "threshold":  41.1844,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "MSFT",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  66987000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.128453,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.340386,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.177887,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  null,
+                                                       "threshold":  0.2,
+                                                       "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  27.8714,
+                                                       "threshold":  39.5599,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "META",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  46109000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.38619,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.302381,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.22167,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  0.464848,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  22.9819,
+                                                       "threshold":  33.5173,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "NVDA",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  96676000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.070187,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  1.014851,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.654735,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  null,
+                                                       "threshold":  0.2,
+                                                       "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  29.3063,
+                                                       "threshold":  136.6515,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "V",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  21577000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.663985,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.520676,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.1134,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  0.223106,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  31.9355,
+                                                       "threshold":  42.0494,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "WMT",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  14923000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.67353,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.229691,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.047252,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  null,
+                                                       "threshold":  0.2,
+                                                       "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  38.1241,
+                                                       "threshold":  50.3999,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  5,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "JPM",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  false,
+                                                       "value":  -147782000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  1.379497,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  true,
+                                                       "value":  0.161336,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.07323,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  false,
+                                                       "value":  null,
+                                                       "threshold":  0.2,
+                                                       "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  true,
+                                                       "value":  15.34,
+                                                       "threshold":  20.1029,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  4,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "UNH",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  16075000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.832951,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  false,
+                                                       "value":  0.129101,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  true,
+                                                       "value":  0.11814,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  true,
+                                                       "value":  -0.053993,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  false,
+                                                       "value":  25.5026,
+                                                       "threshold":  22.1602,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  4,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "BRK-B",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  25042000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.179924,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  false,
+                                                       "value":  0.097993,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  false,
+                                                       "value":  -0.032317,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  true,
+                                                       "value":  0.125304,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  false,
+                                                       "value":  12.7071,
+                                                       "threshold":  11.8362,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  3,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      },
+                      {
+                          "ticker":  "XOM",
+                          "passed_all":  false,
+                          "criteria_results":  [
+                                                   {
+                                                       "criterion":  "positive_fcf",
+                                                       "passed":  true,
+                                                       "value":  23612000000.0,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reasonable_debt",
+                                                       "passed":  true,
+                                                       "value":  0.167846,
+                                                       "threshold":  1.5,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "roe_above",
+                                                       "passed":  false,
+                                                       "value":  0.110283,
+                                                       "threshold":  0.15,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "revenue_growth_positive_recent",
+                                                       "passed":  false,
+                                                       "value":  -0.045224,
+                                                       "threshold":  0.0,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "reverse_dcf_implied_growth_below",
+                                                       "passed":  true,
+                                                       "value":  -0.063094,
+                                                       "threshold":  0.2,
+                                                       "note":  null
+                                                   },
+                                                   {
+                                                       "criterion":  "pe_below_historical_median",
+                                                       "passed":  false,
+                                                       "value":  20.6333,
+                                                       "threshold":  19.2415,
+                                                       "note":  null
+                                                   }
+                                               ],
+                          "pass_count":  3,
+                          "total_criteria":  6,
+                          "fetch_error":  null
+                      }
+                  ],
+    "full_results":  [
+                         {
+                             "ticker":  "JNJ",
+                             "passed_all":  true,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  19313000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.587818,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.350301,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.060481,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  true,
+                                                          "value":  0.072078,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  31.9641,
+                                                          "threshold":  32.9986,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  6,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "PG",
+                             "passed_all":  true,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  15147000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.647658,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.302489,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.032604,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  true,
+                                                          "value":  -0.048041,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  22.1267,
+                                                          "threshold":  23.4517,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  6,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "AAPL",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  98767000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  1.33803,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  1.714224,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.064255,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  0.442726,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  36.7732,
+                                                          "threshold":  52.456,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "GOOGL",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  73266000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.142779,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.357048,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.150901,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  null,
+                                                          "threshold":  0.2,
+                                                          "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  17.0008,
+                                                          "threshold":  50.2803,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "AMZN",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  7695000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.372172,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.222858,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.123778,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  null,
+                                                          "threshold":  0.2,
+                                                          "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  20.6887,
+                                                          "threshold":  41.1844,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "MSFT",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  66987000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.128453,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.340386,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.177887,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  null,
+                                                          "threshold":  0.2,
+                                                          "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  27.8714,
+                                                          "threshold":  39.5599,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "META",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  46109000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.38619,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.302381,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.22167,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  0.464848,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  22.9819,
+                                                          "threshold":  33.5173,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "NVDA",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  96676000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.070187,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  1.014851,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.654735,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  null,
+                                                          "threshold":  0.2,
+                                                          "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  29.3063,
+                                                          "threshold":  136.6515,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "V",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  21577000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.663985,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.520676,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.1134,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  0.223106,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  31.9355,
+                                                          "threshold":  42.0494,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "WMT",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  14923000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.67353,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.229691,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.047252,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  null,
+                                                          "threshold":  0.2,
+                                                          "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  38.1241,
+                                                          "threshold":  50.3999,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  5,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "JPM",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  false,
+                                                          "value":  -147782000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  1.379497,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  true,
+                                                          "value":  0.161336,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.07323,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  null,
+                                                          "threshold":  0.2,
+                                                          "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  true,
+                                                          "value":  15.34,
+                                                          "threshold":  20.1029,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  4,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "UNH",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  16075000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.832951,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  false,
+                                                          "value":  0.129101,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  true,
+                                                          "value":  0.11814,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  true,
+                                                          "value":  -0.053993,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  false,
+                                                          "value":  25.5026,
+                                                          "threshold":  22.1602,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  4,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "BRK-B",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  25042000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.179924,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  false,
+                                                          "value":  0.097993,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  false,
+                                                          "value":  -0.032317,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  true,
+                                                          "value":  0.125304,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  false,
+                                                          "value":  12.7071,
+                                                          "threshold":  11.8362,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  3,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "XOM",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  23612000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.167846,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  false,
+                                                          "value":  0.110283,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  false,
+                                                          "value":  -0.045224,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  true,
+                                                          "value":  -0.063094,
+                                                          "threshold":  0.2,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  false,
+                                                          "value":  20.6333,
+                                                          "threshold":  19.2415,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  3,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         },
+                         {
+                             "ticker":  "TSLA",
+                             "passed_all":  false,
+                             "criteria_results":  [
+                                                      {
+                                                          "criterion":  "positive_fcf",
+                                                          "passed":  true,
+                                                          "value":  6220000000.0,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reasonable_debt",
+                                                          "passed":  true,
+                                                          "value":  0.179201,
+                                                          "threshold":  1.5,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "roe_above",
+                                                          "passed":  false,
+                                                          "value":  0.048939,
+                                                          "threshold":  0.15,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "revenue_growth_positive_recent",
+                                                          "passed":  false,
+                                                          "value":  -0.029307,
+                                                          "threshold":  0.0,
+                                                          "note":  null
+                                                      },
+                                                      {
+                                                          "criterion":  "reverse_dcf_implied_growth_below",
+                                                          "passed":  false,
+                                                          "value":  null,
+                                                          "threshold":  0.2,
+                                                          "note":  "reverse-DCF could not solve -- implied growth exceeds solver\u0027s max (priced for perfection)"
+                                                      },
+                                                      {
+                                                          "criterion":  "pe_below_historical_median",
+                                                          "passed":  false,
+                                                          "value":  322.6881,
+                                                          "threshold":  134.7898,
+                                                          "note":  null
+                                                      }
+                                                  ],
+                             "pass_count":  2,
+                             "total_criteria":  6,
+                             "fetch_error":  null
+                         }
+                     ],
+    "universe_size":  15,
+    "errors":  [
+
+               ]
+}
